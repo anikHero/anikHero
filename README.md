@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anikHero
+- 👋 Hi, I’m @AnikHero
 - 👀 I’m interested in web devoloping website
 - 🌱 I’m currently learning web digine devolopment
 - 💞️ I’m looking to collaborate on ...
